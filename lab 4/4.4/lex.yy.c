@@ -1514,7 +1514,7 @@ int main()
 
 
 int main() {
-    printf("Lab Work performed by SAVITA NANDAN 2019UGCS055R\n");
+    printf("THIS PROGRAMME IS ABOUT FLOAT DIGIT\n");
     yylex();
 }
 
