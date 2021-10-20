@@ -12,7 +12,7 @@ op_plus "+"
 %%
 
 int main() {
-    printf("Lab Work done by SAVITA NANDAN 2019UGCS055R\n");
+    printf("Lab Work done by CHAITANYA VASU 2019UGCS059R\n");
     yylex();
 }
 
