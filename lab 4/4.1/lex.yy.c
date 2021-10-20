@@ -1550,7 +1550,7 @@ int main()
 
 
 int main() {
-    printf("Lab Work performed by SAVITA NANDAN 2019UGCS055R\n");
+    printf("THIS IS THE PROGRAMME FOR KEYWORD\n");
     yylex();
 }
 
