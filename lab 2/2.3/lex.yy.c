@@ -1518,7 +1518,7 @@ int main()
 
 
 int main() {
-    printf("Lab Work done by SAVITA NANDAN 2019UGCS055R\n");
+    printf("THIS PROGRAMM IS ABOUT LETTERCASE\n");
     yylex();
 }
 
