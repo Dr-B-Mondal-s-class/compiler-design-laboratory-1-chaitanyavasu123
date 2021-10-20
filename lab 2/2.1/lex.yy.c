@@ -1519,7 +1519,7 @@ int main()
 
 
 int main() {
-    printf("THIS PROGRAMM IS ABOUT LETTERS AND DIGITS\n");
+    printf("THIS PROGRAMM IS ABOUT TO LETTERS AND DIGITS\n");
     yylex();
 }
 
